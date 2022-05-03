@@ -4,7 +4,7 @@ This is my solution to a test assignment where I had to design and code a single
 
 ## Links
 
-- [Live Site URL](ll-real-estate-project.netlify.app)
+- [Live Site URL](https://ll-real-estate-project.netlify.app)
 - [Github Repository](https://github.com/lkl03/real-estate-project)
 - [Figma Project](https://www.figma.com/file/bLELxu3Xh6XbrdwWqp0F8J/Website-Builder---Real-Estate-Project?node-id=4%3A2)
 
